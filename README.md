@@ -1,5 +1,6 @@
 # arbitrum-rust-colearning-0xBrick
-WeChat ID：Brick0v0
+微信号 WeChat ID：Brick0v0
 
-task1:hello_web3
+Task1:hello_web3
 
+Task2:level2-balance-query

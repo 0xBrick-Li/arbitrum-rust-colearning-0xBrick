@@ -1,0 +1,13 @@
+[package]
+name = "level2-balance-query"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+alloy = "1.2.1"
+tokio = { version = "1.49.0", features = ["full"] }
+
+
+[[bin]]
+name = "balance"
+path = "src/balance.rs"
